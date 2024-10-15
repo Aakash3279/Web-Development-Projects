@@ -31,7 +31,7 @@ This project is a simple implementation of a To-Do List app using HTML, CSS, and
 - **JavaScript:** Used to add dynamic functionality, such as adding tasks, marking them as completed, and saving the task list to local storage.
 
 ## Video Demo
-Watch a demo of this To-Do List app in action:[To-Do List Demo Video](https://youtu.be/SqrppLEljkY?si=k57-uiBtfbpGjQcr)
+Watch a demo of this To-Do List app in action: [To-Do List Demo Video](https://www.youtube.com/watch?v=G0jO8kUrg-I)
 
 
 ## Conclusion
