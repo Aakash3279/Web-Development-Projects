@@ -31,8 +31,4 @@ Simon Game is a fun and interactive memory-based game where players need to repl
 - **styles.css**: Custom styles for the game elements
 - **game.js**: JavaScript file containing the game logic
 
-## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/simon-game.git
