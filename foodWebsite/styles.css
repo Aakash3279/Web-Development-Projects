@@ -1,0 +1,80 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+/* image responsive */
+.image_responsive{
+    max-width: 100%;;
+}
+.hero_image{
+    background-image: url(./images/hamburger-494706_1920.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    
+}
+.hero_wrapper{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.hero_wrapper h1{
+    text-align: center;
+    font-size: 2.4rem;
+}
+.hero_wrapper span{
+    margin-left: 5rem;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+.form_code{
+    text-align: center;
+}
+.form_code .post_code{
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+    padding: 0.6em;
+    border: none;
+    outline: none;
+}
+.form_code button{
+    width: 40%;
+    text-align: center;
+    background-color: rgb(239, 178, 7);
+    color: white;
+    margin-top: 1rem;
+    margin: 1rem auto 0rem;
+    padding: 0.6em;
+    border: none;
+    border-radius: 0.3rem;
+}
+
+.product{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: .5rem;
+}
+
+.product_list_item{
+    float: left;
+    width: 31%;
+    margin-left: 1rem;
+}
+.product_list_item:first-of-type{
+    margin-left: 0;
+}
+
+@media screen and (max-width: 700px) {
+    .product_list_item{
+        width: 100%;
+        float: none;
+    }
+}
